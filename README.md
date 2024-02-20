@@ -1,18 +1,20 @@
-<h1>Pedro Victo</h1>
+<h1> Olá me chamo Pedro Victor</h1>
 
-<p>olá me chamo</p>
+<p>olá me chamo Pedro Victor</p>
 
-<!--
-**pedroVicto/pedrovicto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  No Caminho para   me tornar um dev full-stack.
+-  Atualamente estou me espcializando com:
+-  html, css, javascript, jquerry.
+<br>
+- estou estudando:
+  nodejs, reactjs, typescript.
 
-Here are some ideas to get you started:
+- Redes Sociais:
+  instagram: pedrovictor_ab
+  linkedin: pedrovictor
+  e-mail: victorpedrosilva445@gmail.com
+  
+- pronomes:
+  ele/dele.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
