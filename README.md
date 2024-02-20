@@ -5,8 +5,8 @@
 -  No Caminho para   me tornar um dev full-stack.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovicto&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovicto&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovicto&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovicto&layout=compact&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
